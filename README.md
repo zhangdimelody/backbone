@@ -1,4 +1,4 @@
-     ____                     __      __
+      ____                     __      __
     /\  _`\                  /\ \    /\ \                                   __
     \ \ \ \ \     __      ___\ \ \/'\\ \ \____    ___     ___      __      /\_\    ____
      \ \  _ <'  /'__`\   /'___\ \ , < \ \ '__`\  / __`\ /' _ `\  /'__`\    \/\ \  /',__\
@@ -22,7 +22,7 @@ https://github.com/jashkenas/backbone/issues
 Backbone is an open-sourced component of DocumentCloud:
 https://github.com/documentcloud
 
-Many thanks to our contributors:
+Many hanks to our contributors:
 https://github.com/jashkenas/backbone/graphs/contributors
 
 Special thanks to Robert Kieffer for the original philosophy behind Backbone.

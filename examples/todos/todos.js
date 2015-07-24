@@ -4,6 +4,10 @@
 // to persist Backbone models within your browser.
 
 // Load the application once the DOM is ready, using `jQuery.ready`:
+// define('backbone'
+//   ,function(Backbone){
+    
+// });
 $(function(){
 
   // Todo Model

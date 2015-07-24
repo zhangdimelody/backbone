@@ -433,5 +433,6 @@
     notEqual(oldEl, view.el);
     notEqual($oldEl, view.$el);
   });
+  alert(0)
 
 })();
